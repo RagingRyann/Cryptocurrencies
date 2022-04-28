@@ -1,3 +1,12 @@
+
+iris_data_munging.ipynb
+*.csv
+preproc_shopping_data.ipynb
+KMeans.ipynb
+Trial_and_Error_KMeans.ipynb
+PCA.ipynb
+Hier_Clus.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
